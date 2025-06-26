@@ -1,4 +1,4 @@
-![logo](https://github.com/aryantyagiii/aryantyagiii/blob/main/GHB.png)
+![logo](https://github.com/aryantyagiii/aryantyagiii/blob/main/AT.png)
 <h1 align="center">Hi 👋, I'm Aryan Tyagi</h1>
 <h3 align="center">A passionate frontend developer and software engineer from India</h3>
 

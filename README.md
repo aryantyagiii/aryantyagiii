@@ -7,13 +7,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryantyagiii" alt="aryantyagiii" /></a> </p>
 <img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/24c6287be76c155a12345cb131d1379589070ec28c94088f4582f19d3a1865e9/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
 
-- 🌱 I’m currently learning **full-stack Java**
+- 🌱 I’m currently learning **Python!**
 
-- 👯 I’m looking to collaborate on **Cloud native Projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 🤝 I’m looking for help with **ML and AI**
 
-- 💬 Ask me about **java ,python**
+- 💬 Ask me about **python,html,css,js**
 
 - 📫 How to reach me **aryantyagi761@gmail.com**
 
